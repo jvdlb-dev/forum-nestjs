@@ -46,3 +46,8 @@ export { Prisma }
  * 
  */
 export type User = Prisma.UserModel
+/**
+ * Model Question
+ * 
+ */
+export type Question = Prisma.QuestionModel
